@@ -1,0 +1,13 @@
+{
+  "name": "meridian-core",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "Gas-optimized building blocks for the Meridian protocol.",
+  "files": [
+    "src/**/*.sol"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meridian-fi/meridian-core.git"
+  }
+}

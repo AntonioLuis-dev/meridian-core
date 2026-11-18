@@ -1,0 +1,4 @@
+[submodule "lib/meridian-math"]
+    path = lib/meridian-math
+    url = https://AntonioLuis-dev.github.io/meridian-math/meridian-math.git
+    branch = main
